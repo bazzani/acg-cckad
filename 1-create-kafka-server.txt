@@ -1,19 +1,12 @@
 kafka-broker-1
-cloud_user
-KBYP8076idjl
-54.254.151.62
-172.31.25.180
+ssh cloud_user@135ff962b21c.mylabserver.com
+P-09
 
 
 kafka-broker-2
-cloud_user
-PWLA5172thgx
-54.255.202.156
-172.31.29.75
+ssh cloud_user@135ff962b22c.mylabserver.com
 
 
 kafka-broker-3
 cloud_user
-RSEX2276dxer
-13.212.150.225
-172.31.23.243
+ssh cloud_user@135ff962b23c.mylabserver.com
